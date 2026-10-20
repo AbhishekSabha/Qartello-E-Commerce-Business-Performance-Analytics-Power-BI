@@ -1,5 +1,9 @@
 # Qartello-E-Commerce-Business-Performance-Analytics-using-Power-BI
 
+**Power BI Project File**
+https://github.com/AbhishekSabha/Qartello-E-Commerce-Business-Performance-Analytics-Power-BI/releases/tag/v1.0.0
+
+---
 
 📌 **Project Overview**
 
