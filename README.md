@@ -1,5 +1,5 @@
 # Qartello-E-Commerce-Business-Performance-Analytics-using-Power-BI
-This repository contains Qartello-E-Commerce-Business Solutions using Power BI
+
 
 📌 **Project Overview**
 
