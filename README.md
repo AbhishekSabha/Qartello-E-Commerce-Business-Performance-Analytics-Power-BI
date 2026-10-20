@@ -60,7 +60,9 @@ Provides a consolidated overview of organizational performance through key finan
 - Revenue contribution by customer segment
 
 - Sales and order trends by channel and region
-  
+
+![](https://github.com/AbhishekSabha/Qartello-E-Commerce-Business-Performance-Analytics-Power-BI/blob/main/executive%20view.png)
+
 ---
 
 **2. Sales Performance Dashboard**
@@ -80,6 +82,8 @@ Evaluates revenue trends and sales performance across brands, product categories
 - Acquisition and order channel contribution
 
 - Regional sales performance
+
+![](https://github.com/AbhishekSabha/Qartello-E-Commerce-Business-Performance-Analytics-Power-BI/blob/main/sales%20view.png)
 
 ---
 
@@ -101,6 +105,8 @@ Monitors order fulfillment and delivery performance to identify operational inef
 
 - Country-wise operational performance
 
+![](https://github.com/AbhishekSabha/Qartello-E-Commerce-Business-Performance-Analytics-Power-BI/blob/main/operations%20view.png)
+
 ---
 
 **4. Product & Seller Dashboard**
@@ -121,6 +127,8 @@ Analyzes product profitability, brand contribution, and seller performance to su
 
 - Category-level gross profit and margin
 
+![](https://github.com/AbhishekSabha/Qartello-E-Commerce-Business-Performance-Analytics-Power-BI/blob/main/seller%20%26%20product%20view.png)
+
 ---
 
 **5. Finance Dashboard**
@@ -140,6 +148,8 @@ Evaluates financial performance through a year-wise Profit & Loss statement and 
 - Gross and net profit margins
 
 - Category and regional profitability
+
+![](https://github.com/AbhishekSabha/Qartello-E-Commerce-Business-Performance-Analytics-Power-BI/blob/main/finance%20view.png)
 
 ---
 
